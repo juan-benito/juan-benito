@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.18)  22 APR 2024 11:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.18)  22 APR 2024 12:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -857,26 +857,26 @@ LaTeX Info: Redefining \% on input line 5.
 
 ]) (./lib/0.0.intro/0.8.resum.tex) (./lib/0.0.intro/0.9.abstract.tex [3
 
-])
+]) (./lib/1.0.chapter/plant_prob.tex) (./lib/2.0.chapter/obj_hipot.tex) (./lib/3.0.chapter/marc_teori.tex) (./lib/4.0.chapter/metodologia.tex) (./lib/5.0.chapter/admin_project.tex) (./lib/6.0.chapter/result_disc.tex) (./lib/7.0.chapter/conclu_recomen.tex)
 Package acronym Info: Label `acro:pdf' newly defined as it shall be overridden
-although it is yet undefined on input line 108.
+although it is yet undefined on input line 114.
 Package acronym Info: Label `acro:html' newly defined as it shall be overridden
-although it is yet undefined on input line 108.
+although it is yet undefined on input line 114.
  [4
 
 ] (./lib/8.0.chapter/anex.tex)
-LaTeX Info: Redefining \sptext on input line 113.
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
-LaTeX Info: Redefining \sptext on input line 113.
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
-LaTeX Info: Redefining \sptext on input line 113.
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
-LaTeX Info: Redefining \sptext on input line 113.
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
+LaTeX Info: Redefining \sptext on input line 119.
+LaTeX Info: Redefining \. on input line 119.
+LaTeX Info: Redefining \% on input line 119.
+LaTeX Info: Redefining \sptext on input line 119.
+LaTeX Info: Redefining \. on input line 119.
+LaTeX Info: Redefining \% on input line 119.
+LaTeX Info: Redefining \sptext on input line 119.
+LaTeX Info: Redefining \. on input line 119.
+LaTeX Info: Redefining \% on input line 119.
+LaTeX Info: Redefining \sptext on input line 119.
+LaTeX Info: Redefining \. on input line 119.
+LaTeX Info: Redefining \% on input line 119.
  (c:/texlive/2024/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (c:/texlive/2024/texmf-dist/tex/generic/stringenc/se-utf8.def
@@ -912,10 +912,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22155 strings out of 474115
- 385928 string characters out of 5747696
+ 22204 strings out of 474115
+ 387397 string characters out of 5747696
  1932190 words of memory out of 5000000
- 44154 multiletter control sequences out of 15000+600000
+ 44175 multiletter control sequences out of 15000+600000
  593894 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,6n,81p,871b,3014s stack positions out of 10000i,1000n,20000p,200000b,200000s

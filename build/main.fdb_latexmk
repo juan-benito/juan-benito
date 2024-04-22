@@ -1,19 +1,19 @@
 # Fdb version 4
-["biber build/main"] 1713804897.24532 "build/main.bcf" "build/main.bbl" "build/main" 1713805131.37523 0
-  "build/main.bcf" 1713805131 108575 0dc51797029bd77163a0f89be07a128b "pdflatex"
+["biber build/main"] 1713804897.24532 "build/main.bcf" "build/main.bbl" "build/main" 1713805572.29608 0
+  "build/main.bcf" 1713805571 108575 0dc51797029bd77163a0f89be07a128b "pdflatex"
   "lib/bibliography.bib" 1713804817 384 fc1d2ebcf6aaa81bd6edb4db6120e288 ""
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1713805128.93272 "d:/1.3.Templates/latex/thesis/main.tex" "build/main.pdf" "main" 1713805131.37604 0
-  "build/main.aux" 1713805131 959 0bb1a4775693d773d92fe910908ad8e8 "pdflatex"
+["pdflatex"] 1713805569.36206 "d:/1.3.Templates/latex/thesis/main.tex" "build/main.pdf" "main" 1713805572.29749 0
+  "build/main.aux" 1713805571 959 0bb1a4775693d773d92fe910908ad8e8 "pdflatex"
   "build/main.bbl" 1713804899 1921 27b8155339b3f5fc2cc049939266d705 "biber build/main"
-  "build/main.lof" 1713805131 167 2b759a1e06135c160049b9f0dabfcc81 "pdflatex"
-  "build/main.lot" 1713805131 167 2b759a1e06135c160049b9f0dabfcc81 "pdflatex"
-  "build/main.out" 1713805130 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "build/main.run.xml" 1713805131 2463 b3abcffcb51c80cf51066d6a5d29a790 "pdflatex"
-  "build/main.toc" 1713805131 167 2b759a1e06135c160049b9f0dabfcc81 "pdflatex"
+  "build/main.lof" 1713805571 167 2b759a1e06135c160049b9f0dabfcc81 "pdflatex"
+  "build/main.lot" 1713805571 167 2b759a1e06135c160049b9f0dabfcc81 "pdflatex"
+  "build/main.out" 1713805571 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "build/main.run.xml" 1713805571 2463 b3abcffcb51c80cf51066d6a5d29a790 "pdflatex"
+  "build/main.toc" 1713805571 167 2b759a1e06135c160049b9f0dabfcc81 "pdflatex"
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1713479532 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc" 1713484808 2881 8e2aef9e38084b946e7656b60672fedb ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc" 1713484808 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
@@ -148,7 +148,7 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1713486395 5513072 9c1fc38a7d970efa00aeae6b397bfedd ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1713486861 8221648 b652842b6225ecb6e3cc726f41058b54 ""
   "c:/texlive/2024/texmf.cnf" 1713486092 713 614551405fc44b98efbf516466e3c909 ""
-  "d:/1.3.Templates/latex/thesis/main.tex" 1713805125 4428 e1d3a8efe60be2756fb82197682265e8 ""
+  "d:/1.3.Templates/latex/thesis/main.tex" 1713805567 4747 58ac47624c6d5809a12691a73027a31e ""
   "img/0.1.pdf" 1677264056 627817 8c94887712b7ac09c099fca1470712a8 ""
   "img/0.2.pdf" 1677262740 591973 aee39ec1c9b6144f351dc1af9d1921f9 ""
   "lib/0.0.intro/0.0.carat.tex" 1713797535 904 9bb16ef87af68215b0f303c5d4955512 ""
@@ -161,8 +161,15 @@
   "lib/0.0.intro/0.7.datos_generales.tex" 1698073041 502 f1b6d41152c1bdd1a4817731269e5d0d ""
   "lib/0.0.intro/0.8.resum.tex" 1695117549 50 c0a0727cb37391a4c60c0330bb6c3f5e ""
   "lib/0.0.intro/0.9.abstract.tex" 1694465652 41 4faa72836537ef3b6922f40b8df79550 ""
+  "lib/1.0.chapter/plant_prob.tex" 1713801052 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "lib/2.0.chapter/obj_hipot.tex" 1713802621 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "lib/3.0.chapter/marc_teori.tex" 1713802650 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "lib/4.0.chapter/metodologia.tex" 1713802679 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "lib/5.0.chapter/admin_project.tex" 1713802755 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "lib/6.0.chapter/result_disc.tex" 1713802810 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "lib/7.0.chapter/conclu_recomen.tex" 1713802846 0 d41d8cd98f00b204e9800998ecf8427e ""
   "lib/8.0.chapter/anex.tex" 1713802878 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "main.tex" 1713805125 4428 e1d3a8efe60be2756fb82197682265e8 ""
+  "main.tex" 1713805567 4747 58ac47624c6d5809a12691a73027a31e ""
   (generated)
   "build/main.aux"
   "build/main.bcf"
